@@ -6,9 +6,11 @@
 </template>
 
 <script>
-export default {
-  name: 'App'
-}
+    const name = 'natanael'
+
+    export default {
+      name: 'App'
+    }
 </script>
 
 <style>
